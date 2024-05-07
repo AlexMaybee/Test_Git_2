@@ -6,12 +6,5 @@ lets test git...
 
 ---more changes from site
 
-:::changes for gui testing
-
-***after ssh update
-
-
-
-check by ssh sent
-
-added new pass
+\\\\\
+new feature branch is created
