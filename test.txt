@@ -1,10 +1,4 @@
 lets test git...
-...and make first commit!
-
-...changes from site
 
 
----more changes from site
-
-++++++
-the new commit to feature branch
+master first branch to solve conflict
