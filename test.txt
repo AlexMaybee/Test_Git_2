@@ -11,4 +11,5 @@ lets test git...
 ***after ssh update
 
 
-))) next update
+
+check by ssh sent
