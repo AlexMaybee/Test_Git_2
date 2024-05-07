@@ -6,5 +6,6 @@ lets test git...
 
 ---more changes from site
 
-++++++
-the new commit to feature branch
+_____
+
+true commit in the future branch
